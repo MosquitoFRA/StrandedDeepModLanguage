@@ -2,9 +2,9 @@
 <Language>
     <Option>
 		<!--Main Mod Settings / Title-->
-        <string name="title">Mod Settings</string>
+        	<string name="title">Mod Settings</string>
 		<!--Main Mod Settings / Button Text-->
-        <string name="general_settings">General Settings</string>
+        	<string name="general_settings">General Settings</string>
 		<string name="input_settings">Input Settings</string>
 		<string name="terrain_settings">Terrain Settings</string>
 		<!--Main Mod Settings / General Settings-->
@@ -30,11 +30,12 @@
 		<string name="chest">Chest</string>
 		<string name="buster_sword">Buster Sword</string>
 		<string name="gunblade">Gunblade</string>
-		<!--Main Mod Settings / General Settings / Drop Down-->
+		<!--Main Mod Settings / General Settings / Shark Drop Down-->
 		<string name="shark_settings">Shark Settings</string>
 		<string name="shark_settings_option0">Normal Sharks</string>
 		<string name="shark_settings_option1">Harmless Sharks</string>
 		<string name="shark_settings_option2">No Sharks</string>
+	    	<!--Main Mod Settings / General Settings / Snake Drop Down-->
 		<string name="snake_settings">Snake Settings</string>
 		<string name="snake_settings_option0">Normal Snakes</string>
 		<string name="snake_settings_option1">Harmless Snakes</string>
@@ -76,9 +77,11 @@
 		<!--Main Mod Settings / Input Settings / Info Text-->
 		<string name="KeyPress">Press a key to assign it.</string>
 		<string name="KeyAssigned">That key is already in use or cannot be assigned.</string>
+	    	<!--Main Mod Settings / Terrain Settings / Terrain Toggle-->
 		<string name="TerrainTweaksLabel">Terrain Tweaks</string>
 		<string name="NonCenterBasedLabel">Non Center Based Generation</string>
 		<string name="IslandsOnlyLabel">Island's Only</string>
+	    	<!--Main Mod Settings / Terrain Settings / Preset-->
 		<string name="PresetDropDownText">Presets</string>
 		<string name="PresetOpenSaveText">Add / Remove</string>
 		<string name="PresetUpdateText">Update</string>
@@ -88,7 +91,6 @@
 		<string name="PresetNameNo">Preset name does not exist!</string>
 		<string name="PresetNameNull">Preset name can't be empty! Please enter a name.</string>
 		<string name="PresetNameExist">Preset name already exists! Please choose a different name.</string>
-		<!--Main Mod Settings / Terrain Settings / Preset-->
 		<string name="PresetCancelText">Cancel</string>
 		<string name="PresetRemoveText">Remove</string>
 		<string name="PresetSaveText">Save</string>
